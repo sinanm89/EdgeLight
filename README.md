@@ -1,4 +1,9 @@
-# Bare Arduino Project
+# EdgeLight
+
+Read Screen edge pixels, average the color and relay info to arduino for edgelight system to display.
+
+
+# Bare Arduino Project Info
 
 ⚠️ ***For mbed projects, see [Bare mbed Project](https://github.com/ladislas/Bare-mbed-Project).***
 
